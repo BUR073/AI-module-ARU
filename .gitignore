@@ -5,3 +5,8 @@
 *.bmp
 *.tiff
 *.webp
+*.keras
+*.data-00000-of-00001
+shared_test_cache*
+shared_train_cache*
+*.index
