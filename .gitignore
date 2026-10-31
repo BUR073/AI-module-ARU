@@ -10,3 +10,4 @@
 shared_test_cache*
 shared_train_cache*
 *.index
+.DS_Store
